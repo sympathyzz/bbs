@@ -1,0 +1,89 @@
+@charset "UTF-8";
+ body{position: relative;}  
+#div9{position: absolute;top: 200px;left: 500px;}
+#div1 {
+	width: 60%;
+	margin-left:300px;
+	margin-top:-60px;
+}
+#div4{
+	background-color: white;
+	height: 700px;
+}
+#div3{
+	margin-left:160px;
+	margin-top:-60px;
+	color: #666666;
+}
+#img01{
+	width: 60%;
+	height: 30%;
+	margin-left:300px;
+}
+.head_img{
+	width: 150px;
+	height: 150px;
+}
+#add ,#chet{
+	margin-top:-120px;
+}
+#alterHead{
+	margin-top: -150px;
+}
+#eor{
+	margin-left:800px;
+}
+#eor a{
+	color: #999999;
+}
+a{
+	 text-decoration:none;
+}
+#div5 a{
+	color: #66CCFF;
+}
+.botton1{
+	text-align:center;
+}
+#div9{
+	color:red;
+	width: 30%;
+	margin-left:400px;
+	margin-top:200px;
+}
+.box{
+	width: 300px;
+	height: 200px;
+	border: 1px solid #CCCCCC;
+	background-color:#FFFFFF;
+	margin-top: 0px;
+}
+#pen{
+	width: 30px;
+	height:30px;
+}
+#img{
+	width: 150px;
+	height:150px;
+}
+#alterHeadImg{
+	width: 80px;
+	height: 30px;
+	margin-top: -100px;
+	margin-left: 150px;
+}
+#leftchathead,#chat,#toIndex{
+	width: 24px;
+	height: 24px;
+}
+#userList{
+	margin-top: -300px;
+	margin-left: 500px;
+	width: 160px;
+	height:300px;
+	border: 1px double #0099FF;
+}
+#tun{
+	margin-left: 500px;
+	background-color: #00CCFF;
+}

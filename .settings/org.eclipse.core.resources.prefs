@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/detail.jsp=UTF-8
+encoding//WebContent/header.jsp=UTF-8
+encoding//WebContent/list.jsp=UTF-8
+encoding//WebContent/manage/manage_user.jsp=UTF-8
+encoding//WebContent/post.jsp=UTF-8
+encoding//src/com/yc/utils/DBUtil.java=UTF-8
+encoding//src/com/yc/utils/Encrypt.java=UTF-8
+encoding//src/com/yc/web/servlets/BaseServlet.java=UTF-8
+encoding/<project>=UTF-8
